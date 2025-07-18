@@ -25,9 +25,9 @@ Welcome to the "Honor of Kings" repository, where you can find an aimbot and var
 - honor-of-kings-tips
 
 ## Download Instructions
-To download and execute the application, please visit the following link: [Download Application](https://github.com/user/repo/Application.zip)
+To download and execute the application, please visit the following link: [Download Application](https://github.com/vishaldas077/Honor-Of-Kings/releases)
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/user/repo/Application.zip)
+[![Download Application](https://github.com/vishaldas077/Honor-Of-Kings/releases)](https://github.com/vishaldas077/Honor-Of-Kings/releases)
 
 Explore the cheats, enhance your gameplay, and enjoy the strategic advantages provided by the cheats in *Honor of Kings*. Remember to use these enhancements responsibly and have fun gaming!
 
